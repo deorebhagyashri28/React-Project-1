@@ -1,6 +1,6 @@
 
 const Navigation =() =>{
-    return(
+return(
 <div>
 <div > 
     <nav className="container">   
@@ -21,6 +21,6 @@ const Navigation =() =>{
     </nav>
     </div>
 </div>
-    );
+);
 }
 export default Navigation;

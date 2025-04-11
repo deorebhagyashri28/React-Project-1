@@ -9,6 +9,7 @@ createRoot(document.getElementById('root')).render(
   // this below is jsx syntax which looks like a HTML but bit different
   //here inside strict we are calling required componenets 
   <StrictMode>
+    {/* here App componnet is loading */}
     <App /> 
     
   </StrictMode>,
