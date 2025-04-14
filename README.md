@@ -1,2 +1,2 @@
-# React-Project-1
-This is a basic webpage of ecommerce website developed using React Js.
+# React-Project
+This repository contains 10 different projects in React Js. Basic to Complex level.
